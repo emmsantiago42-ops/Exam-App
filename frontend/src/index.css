@@ -1,0 +1,14 @@
+/* Deja tu src/index.css solo con esto: */
+body {
+  margin: 0;
+  background-color: #f8f9fa !important; /* Gris claro de fondo */
+  text-align: left !important;         /* Fuerza la alineación a la izquierda */
+}
+
+#root {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: block !important;          /* Destruye el flexbox centrado de Vite */
+}
