@@ -61,10 +61,3 @@ npm install
 npm run dev
 
 ---
-
-### 💡 Un dernier conseil de pro para tu perfil general de GitHub:
-1.  **Nombre del repositorio:** Ponle un nombre limpio como `SGEL` o `SGEL-App-Web`.
-2.  **Descripción corta:** En la barra lateral derecha del repositorio, añade una descripción corta en francés: *"Système de Gestion des Examens en Ligne - Architecture découplée (React & Laravel API REST)"*.
-3.  **Fijar el repositorio (Pin):** Ve a la página principal de tu perfil de GitHub y dale a **"Customize your pins"**. Elige el repositorio de `SGEL` para que sea lo primero que vea cualquier profesor o reclutador que entre a buscarte.
-
-¿Ya tienes creado el repositorio en GitHub o necesitas los comandos rápidos para subir tu código local desde la terminal?
